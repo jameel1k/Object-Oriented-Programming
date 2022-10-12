@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-Python Object Oriented Programming, I have made a project on making a pount coin. 
+Python Object Oriented Programming, I have made a project on making a pount coin using methods and classes. 
